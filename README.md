@@ -3,7 +3,7 @@
 [![CI: Python application](https://github.com/LosingTouch/ml-asset-management/actions/workflows/python-app.yml/badge.svg)](https://github.com/LosingTouch/ml-asset-management/actions/workflows/python-app.yml)
 
 **Machine Learning for Asset Management**  
-Tutorial 5 code for ESILV’s *C++ & Python for Finance* course.
+Tutorial 5 code for ESILV’s course.
 
 This project covers:
 
