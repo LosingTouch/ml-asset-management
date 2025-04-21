@@ -1,0 +1,5 @@
+qpsolvers
+scikit-learn
+pandas
+matplotlib
+scipy
