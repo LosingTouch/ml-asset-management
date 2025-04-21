@@ -183,7 +183,6 @@ plt.show()
 
 """#Partie 2"""
 
-!pip install qpsolvers
 
 # %% Cell 1: Imports and Setup for HRP
 import numpy as np
